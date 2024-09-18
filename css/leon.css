@@ -12,6 +12,9 @@
 body {
     font-family: "Work Sans", sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+}
 .container {
     margin: 0 auto;
     padding: 0 15px;
